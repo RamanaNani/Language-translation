@@ -38,4 +38,18 @@ To get started with this project, you'll need to set up a Python environment and
    ``` bash
    streamlit run main.py
 
+## Usage
+
+   Once the Streamlit app is running, you can access the web interface in your browser. Enter the text you want to translate and select the appropriate language pair. The translated text will be displayed on the screen.
+
+## License
+
+   This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgements
+
+   * [Hugging](https://huggingface.co/) Face for providing the pre-trained models and the Transformers library
+   * [Europarl](https://www.statmt.org/europarl/v10/training/) for the parallel corpus data
+
+
    
