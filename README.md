@@ -1,4 +1,4 @@
-## Language Translation
+## Group 3: Language Translation Service
 ## Overview
 
 This project is a language translation service built using Streamlit and Hugging Face Transformers. It supports translation between English and Greek, and Romanian and English. The pre-trained models are fine tuned for sequence-to-sequence language translation and provides a web interface for users to input text and get translations.
