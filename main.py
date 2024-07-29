@@ -14,9 +14,9 @@ models_and_tokenizers = {
     }
 }
 
-# Load weights if you have them
+# Load weights 
 model_weights_paths = {
-    "en_el": "/Users/ramanareddy/Documents/Assignments_sem2/PR/project/UI/en_el_weights.pth",
+    "en_el": "/Users/ramanareddy/Documents/Assignments_sem2/PR/project/UI/en_el_weights.pth", # save the model and replace the path
     "ro_en": "/Users/ramanareddy/Documents/Assignments_sem2/PR/project/UI/ro_en_weights.pth",
 }
 
